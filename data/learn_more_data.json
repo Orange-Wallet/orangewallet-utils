@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Pool Together",
+        "children": [
+            {
+                "title": "Deposit",
+                "subtitle": "Learn how to deposit into a pool.",
+                "videoId": "bPygoDkd6dA"
+            },
+            {
+                "title": "Withdraw",
+                "subtitle": "Learn how to withdraw from a pool.",
+                "videoId": "bPygoDkd6dA"
+            }
+        ]
+    }
+]
