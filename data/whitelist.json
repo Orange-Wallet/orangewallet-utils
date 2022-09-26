@@ -2,6 +2,7 @@
     {
         "chain_id": 137,
         "addresses": [
+            "0x0000000000000000000000000000000000001010",
             "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
             "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
             "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
@@ -34,12 +35,16 @@
             "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
             "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
             "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
-            "0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16"
+            "0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16",
+            "0xc004e2318722ea2b15499d6375905d75ee5390b8",
+            "0x6a304dfdb9f808741244b6bfee65ca7b3b3a6076"
         ]
     },
     {
         "chain_id": 56,
         "addresses": [
+            "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+            "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
             "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
             "0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7",
             "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
@@ -112,6 +117,7 @@
     {
         "chain_id": 1,
         "addresses": [
+            "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
             "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "0x0000000000085d4780B73119b644AE5ecd22b376",
             "0x0000000000095413afC295d19EDeb1Ad7B71c952",
@@ -415,6 +421,7 @@
     {
         "chain_id": 42161,
         "addresses": [
+            "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
             "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
             "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
             "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
@@ -425,6 +432,7 @@
     {
         "chain_id": 43114,
         "addresses": [
+            "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
             "0x8b82A291F83ca07Af22120ABa21632088fC92931",
             "0x12AF5C1a232675f62F405b5812A80e7a6F75D746",
             "0x23cD2E6b283754Fd2340a75732f9DdBb5d11807e",
@@ -488,6 +496,10 @@
     {
         "chain_id": 10,
         "addresses": [
+            "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+            "0x62bb4fc73094c83b5e952c2180b23fa7054954c4",
+            "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+            "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
             "0x4200000000000000000000000000000000000006",
             "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
             "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
@@ -499,6 +511,13 @@
             "0x9Bcef72be871e61ED4fBbc7630889beE758eb81D",
             "0xffD27b572246f35c992EfB28DD8cB730b93Ed301",
             "0x4200000000000000000000000000000000000042"
+        ]
+    },
+    {
+        "chain_id": 1399811149,
+        "addresses": [
+            "11111111111111111111111111111111",
+            "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ]
     }
 ]
