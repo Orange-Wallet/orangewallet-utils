@@ -521,5 +521,17 @@
             "9LzCMqDgTKYz9Drzqnpgee3SGa89up3a247ypMj2xrqM",
             "AkhdZGVbJXPuQZ53u2LrimCjkRP6ZyxG1SoM85T98eE1"
         ]
+    },
+    {
+        "chain_id": 9696,
+        "addresses": [
+            "11111111111111111111111111111111"
+        ]
+    },
+    {
+        "chain_id": 69,
+        "addresses": [
+            "11111111111111111111111111111111"
+        ]
     }
 ]
